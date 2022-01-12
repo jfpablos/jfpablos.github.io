@@ -1,6 +1,6 @@
 ## Jesús Fernando Pablos Megía
 
-[CURRICULUM]({{ site.url }}/curriculum.pdf)
+[DESCARGAR CURRICULUM]({{ site.url }}/curriculum.pdf)
 
 
 
