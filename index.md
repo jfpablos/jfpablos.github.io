@@ -1,12 +1,12 @@
 <style>
-  /* Contenedor flexible para PC y Móvil */
+  /* Corrige el ancho para que no se vea estrecho en PC */
   .container {
-    max-width: 1000px !important;
+    max-width: 960px !important;
     margin: 0 auto;
     padding: 20px;
   }
   
-  /* Botón de descarga adaptativo */
+  /* Botón de descarga profesional */
   .download-container {
     text-align: center;
     margin: 30px 0;
@@ -16,27 +16,25 @@
     background-color: #2ea44f;
     border: none;
     color: white !important;
-    padding: 16px 30px;
+    padding: 16px 35px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 18px;
-    border-radius: 10px;
+    font-size: 19px;
+    border-radius: 8px;
     font-weight: bold;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    transition: transform 0.2s, background-color 0.2s;
-    max-width: 90%; /* Evita que el botón se salga en móviles muy pequeños */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
   }
   
   .download-button:hover {
-    transform: scale(1.03);
     background-color: #2c974b;
-    text-decoration: none;
+    transform: translateY(-2px);
   }
 
-  h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 40px; color: #24292e; }
-  h3 { color: #0366d6; margin-top: 25px; }
-  .date { color: #6a737d; font-style: italic; font-size: 0.9em; }
+  h2 { border-bottom: 2px solid #eee; padding-bottom: 8px; margin-top: 35px; color: #24292e; }
+  h3 { margin-top: 25px; color: #0366d6; }
+  .job-date { color: #6a737d; font-style: italic; font-size: 0.9em; display: block; margin-bottom: 10px; }
 </style>
 
 <div class="download-container">
@@ -46,51 +44,48 @@
 </div>
 
 ## 🚀 Perfil Profesional
-[cite_start]Consultor con amplia experiencia en el ciclo de vida del dato[cite: 8]. [cite_start]Especializado en el ecosistema **Microsoft Azure** y **Power BI**, cuento con certificaciones oficiales como Administrador, Ingeniero, Científico y Analista de Datos[cite: 8]. [cite_start]Perfil versátil con formación en **Ingeniería Eléctrica** y **Finanzas** (MIFID II)[cite: 7, 94]. [cite_start]Experto en metodologías **Scrum** y entornos de integración de APIs[cite: 10, 11].
+Data Analyst y Data Engineer con especialización en el ecosistema **Microsoft Azure** y **Power BI**. Cuento con una sólida base técnica en ingeniería eléctrica y finanzas, además de certificaciones oficiales en administración, ingeniería y ciencia de datos. Experto en metodologías ágiles (Scrum).
 
 ---
 
-## 🛠 Habilidades Clave
-* [cite_start]**Data Engineering:** Databricks, Snowflake, Azure Synapse, ETL, Pyspark[cite: 18, 24, 106].
-* [cite_start]**Business Intelligence:** Power BI (DAX, Tabular Editor), SQL Server, Modelado de datos[cite: 24, 32, 106].
-* [cite_start]**Data Science:** Python (Scikit-learn, Pandas), R, Machine Learning, TensorFlow[cite: 105, 107].
-* [cite_start]**Cloud & Infra:** Certificado Azure (AZ-104), AWS (EC2, S3), Docker, Kubernetes[cite: 111, 113, 117].
-* [cite_start]**Middleware:** Apigee, WSO2 (ESB, API Manager), SoftwareAG API Gateway[cite: 110].
+## 🛠 Habilidades Técnicas
+* **Data Engineering:** Databricks, Snowflake, Azure Synapse, ETL, Pyspark.
+* **Business Intelligence:** Power BI (Certificación DA-100), Tableau, Modelado de datos SQL.
+* **Data Science:** Python, R, Scikit-learn, Azure Machine Learning, Pandas.
+* **Infraestructura:** Azure (AZ-104), AWS (EC2, S3), Docker, Kubernetes.
+* **APIs:** Apigee, WSO2, SoftwareAG API Gateway.
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### Data Engineer - Analista de Datos | AIRPLANE SOLUTIONS (Consultor para LEVEL)
-[cite_start]<span class="date">Abril 2024 – Actualidad</span> [cite: 13]
-* [cite_start]Creación de cuadros de mando para gestión de DevOps utilizando Power BI y Microsoft Fabric[cite: 17, 18].
-* [cite_start]Implementación de arquitecturas con Azure Data Explorer, Data Factory y Azure Functions[cite: 18].
+### Data Engineer - Analista de Datos | AIRPLANE SOLUTIONS (LEVEL)
+<span class="job-date">Abril 2024 – Actualidad</span>
+* Creación de cuadros de mando para gestión de DevOps con Power BI y Microsoft Fabric.
+* Desarrollo con Azure Data Explorer, Data Factory y Azure Functions.
 
-### Data Engineer - Analista de Datos | KNOMAD MOOD (Consultor para GENERALI)
-[cite_start]<span class="date">Marzo 2023 – Abril 2024</span> [cite: 14, 15]
-* [cite_start]Adaptación de modelos de datos a esquema en estrella mediante Pyspark en Databricks[cite: 21].
-* [cite_start]Optimización de informes Power BI y automatización con Power Apps y Power Automate[cite: 22, 23].
+### Data Engineer - Analista de Datos | KNOMAD MOOD (GENERALI)
+<span class="job-date">Marzo 2023 – Abril 2024</span>
+* Adaptación de modelos de datos a esquema en estrella con Pyspark en Databricks.
+* Automatización de datos en Azure Datalake con Power Apps y Power Automate.
 
-### Data Engineer - Analista de Datos | ATSISTEMAS (Consultor para MAPFRE)
-[cite_start]<span class="date">Octubre 2022 – Marzo 2023</span> [cite: 26, 27]
-* [cite_start]Diseño de nuevo modelo de datos y mantenimiento de Data Warehouse en **Snowflake**[cite: 29].
-* [cite_start]Procesos ETL desde AWS S3 hasta Power BI utilizando AWS Lambda y Python[cite: 30, 32].
-
-### Analista de Datos | ATSISTEMAS (Consultor para GENERALI SEGUROS)
-[cite_start]<span class="date">Febrero 2022 – Octubre 2022</span> [cite: 33, 35]
-* [cite_start]Desarrollo de modelos de datos, indicadores y cuadros de mando en Power BI[cite: 40, 41, 42].
+### Data Engineer - Analista de Datos | ATSISTEMAS (MAPFRE)
+<span class="job-date">Octubre 2022 – Marzo 2023</span>
+* Diseño de modelos de datos y mantenimiento de Data Warehouse en Snowflake.
+* Procesos ETL desde Amazon S3 hasta Power BI.
 
 ---
 
-## 🏅 Certificaciones Destacadas
-* [cite_start]**Microsoft:** Azure Data Engineer Associate (DP-203)[cite: 117].
-* [cite_start]**Microsoft:** Azure Data Scientist Associate (DP-100)[cite: 117].
-* [cite_start]**Microsoft:** Data Analyst Associate (DA-100)[cite: 117].
-* [cite_start]**Microsoft:** Azure Administrator Associate (AZ-104)[cite: 117].
-* [cite_start]**Scrum Master:** European Scrum[cite: 115].
+## 🎓 Educación y Certificaciones
+* **Ingeniería Técnica Industrial** - Universidad Carlos III de Madrid.
+* **Máster en Asesoramiento Financiero (MIFID II)** - Universidad Rey Juan Carlos.
+* **Certificado Azure Data Engineer** (DP-203).
+* **Certificado Azure Data Scientist** (DP-100).
+* **Certificado Data Analyst Associate** (DA-100).
+* **Certificado Azure Administrator** (AZ-104).
 
 ---
 
 ## 📧 Contacto
-* [cite_start]📍 Ocaña, Toledo (España) [cite: 6]
-* [cite_start]🔗 [LinkedIn](https://linkedin.com/in/jesuspablosmegia) [cite: 3] | [cite_start][GitHub](https://github.com/jfpablos) [cite: 5]
+* 📍 Ocaña, Toledo (España)
+* 🔗 [LinkedIn](https://linkedin.com/in/jesuspablosmegia) | [GitHub](https://github.com/jfpablos)
