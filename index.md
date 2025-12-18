@@ -1,70 +1,73 @@
-# Jesús Fernando Pablos Megía
-### Data Engineer | Data Analyst - Business Intelligence
+<style>
+  .download-button {
+    background-color: #2ea44f;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 18px;
+    margin: 20px auto;
+    cursor: pointer;
+    border-radius: 8px;
+    font-weight: bold;
+    width: fit-content;
+  }
+  .download-button:hover {
+    background-color: #2c974b;
+    color: white;
+  }
+</style>
 
-{: .btn}
-[📄 Descargar Currículum en PDF]({{ site.url }}/curriculum.pdf)
-
----
-
-## 👤 Perfil Profesional
-Consultor con amplia experiencia en el ciclo de vida del dato, especializado en el ecosistema **Microsoft Azure** y **Power BI**. Poseo certificaciones oficiales como Administrador, Ingeniero, Científico y Analista de Datos en Azure. Experto en metodologías ágiles (Scrum) y entornos de integración de APIs.
-
----
-
-## 🛠 Habilidades Técnicas
-* **Data Engineering:** Databricks, Snowflake, Azure Synapse, ETL, Pyspark.
-* **Business Intelligence:** Power BI (Certificación DA-100), Tableau, Modelado de datos.
-* **Data Science:** Python, R, Scikit-learn, TensorFlow, Azure Machine Learning.
-* **Cloud & Infraestructura:** Azure (AZ-104), AWS (EC2, S3), Docker, Kubernetes.
-* **Middleware:** Apigee, WSO2, SoftwareAG API Gateway.
-
----
-
-## 💼 Experiencia Profesional
-
-### Data Engineer - Analista de Datos | AIRPLANE SOLUTIONS (Consultor para LEVEL)
-*Abril 2024 – Actualidad*
-* Creación de cuadros de mando para gestión de DevOps utilizando Power BI, Microsoft Fabric y Data Warehouse.
-* Desarrollo con Azure Data Explorer, Data Factory, Azure Functions y SQL.
-
-### Data Engineer - Analista de Datos | KNOMAD MOOD (Consultor para GENERALI)
-*Marzo 2023 – Abril 2024*
-* Adaptación de modelos de datos a esquema en estrella mediante Pyspark en Databricks.
-* Optimización de informes Power BI y automatización con Power Apps y Power Automate.
-
-### Data Engineer - Analista de Datos | ATSISTEMAS (Consultor para MAPFRE)
-*Octubre 2022 – Marzo 2023*
-* Diseño y mantenimiento de Data Warehouse en Snowflake y procesos ETL desde AWS S3.
-* Gestión, configuración y seguridad de Power BI Service.
-
-### Analista de Datos | ATSISTEMAS (Consultor para GENERALI SEGUROS)
-*Febrero 2022 – Octubre 2022*
-* Desarrollo de modelos de datos, definición de indicadores (KPIs) y creación de dashboards en Power BI.
-
-### Analista de Datos | GFI INFORMÁTICA (Consultor para MAPFRE / ORANGE)
-*Mayo 2019 – Mayo 2021*
-* Gestión de APIs con Google Apigee y arquitectura en AWS.
-* Soporte técnico y creación de cuadros de mando para gestión de DevOps.
+<a href="{{ site.url }}/curriculum.pdf" class="download-button">📥 DESCARGAR CURRÍCULUM EN PDF</a>
 
 ---
 
-## 🎓 Educación
-* **Ingeniería Técnica Industrial (Electricidad)** - Universidad Carlos III de Madrid.
-* **Máster en Asesoramiento y Planificación Financiera** - Universidad Rey Juan Carlos (Acreditado MIFID II).
+## 🚀 Perfil Profesional
+[cite_start]Especialista en **Data Engineering** y **Business Intelligence** con amplia trayectoria en el ecosistema **Microsoft Azure**[cite: 2, 8]. [cite_start]Poseo un perfil híbrido con formación en **Ingeniería Eléctrica** y **Finanzas** (Máster MIFID II)[cite: 7, 94]. [cite_start]Experto en metodologías ágiles **Scrum** y gestión de infraestructuras de datos complejas[cite: 11, 115].
 
 ---
 
-## 📜 Certificaciones Destacadas
-* **Microsoft:** Azure Data Engineer Associate (DP-203)
-* **Microsoft:** Azure Data Scientist Associate (DP-100)
-* **Microsoft:** Data Analyst Associate (DA-100)
-* **Microsoft:** Azure Administrator Associate (AZ-104)
-* **IBM:** Data Science Professional Certificate
-* **Stanford University:** Machine Learning
+## 🛠 Habilidades Clave
+* [cite_start]**Data Stack:** Azure Data Factory, Databricks (Pyspark), Snowflake, Microsoft Fabric.
+* [cite_start]**BI & Analytics:** Power BI (DAX, Tabular Editor), SQL Server, Tableau[cite: 24, 43, 106].
+* [cite_start]**AI & Programming:** Python (Scikit-learn, Pandas), R, Javascript, APIs (Apigee)[cite: 54, 105, 107].
+* [cite_start]**Cloud:** Administrador certificado en Azure (AZ-104) y gestión en AWS[cite: 111, 117].
 
 ---
 
-## 🔗 Contacto
-* **LinkedIn:** [linkedin.com/in/jesuspablosmegia](https://linkedin.com/in/jesuspablosmegia)
-* **GitHub:** [github.com/jfpablos](https://github.com/jfpablos)
-* **Email:** jfpablos@gmail.com
+## 💼 Experiencia Relevante
+
+### Data Engineer & Analista de Datos | Airplane Solutions (Level)
+[cite_start]*Abril 2024 – Actualidad* [cite: 13]
+* [cite_start]Creación de cuadros de mando DevOps y almacenes de datos en **Microsoft Fabric**[cite: 17, 18].
+* [cite_start]Implementación de **Azure Logic Apps** y **Azure Functions** para flujos de datos[cite: 18].
+
+### Data Engineer | Knomad Mood (Generali)
+[cite_start]*Marzo 2023 – Abril 2024* [cite: 14, 19]
+* [cite_start]Migración de modelos legacy a **Modelo en Estrella** usando Pyspark en Databricks[cite: 21].
+* [cite_start]Automatización con **Power Apps** y **Power Automate**[cite: 23].
+
+### Data Engineer | atSistemas (Mapfre)
+[cite_start]*Octubre 2022 – Marzo 2023* [cite: 25, 26]
+* [cite_start]Diseño de modelos de datos y mantenimiento de Data Warehouse en **Snowflake**[cite: 29].
+* [cite_start]Arquitectura ETL desde **Amazon S3** mediante AWS Lambda[cite: 30, 32].
+
+> [cite_start]**Nota:** He participado anteriormente en proyectos para la DGT, Ministerio de Educación y Orange en roles de API Management y Desarrollo Full-stack[cite: 50, 58, 65].
+
+---
+
+## 🏅 Certificaciones Oficiales
+* [cite_start]**Microsoft Certified:** Azure Data Engineer (DP-203).
+* [cite_start]**Microsoft Certified:** Azure Data Scientist (DP-100).
+* [cite_start]**Microsoft Certified:** Data Analyst Associate (DA-100).
+* [cite_start]**Microsoft Certified:** Azure Administrator (AZ-104).
+* [cite_start]**IBM:** Data Science Professional Certificate.
+* [cite_start]**Scrum Master:** European Scrum[cite: 115].
+
+---
+
+## 📧 Contacto
+* [cite_start]📍 Ocaña, Toledo (España) [cite: 6]
+* 🔗 [LinkedIn](https://linkedin.com/in/jesuspablosmegia) | [cite_start][GitHub](https://github.com/jfpablos) [cite: 3, 5]
